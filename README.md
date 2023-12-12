@@ -28,6 +28,9 @@ Navigating to A Directory, Locating and Reading the contents of a File:  <br/>
 <br />
 Filtering with "Grep" and Piping "|" Command: <br/>
 <img src="https://imgur.com/Ia1ZcAy.png" height="80%" width="80%" alt="Finding and Managing Files With Linux Commands steps"/>
+<br />
+Creating A File and Adding Text Using "nano" command: <br/>
+<img src="https://imgur.com/W3tnPbq.png" height="80%" width="80%" alt="Finding and Managing Files With Linux Commands steps"/>
 </p>
 
 <!--
